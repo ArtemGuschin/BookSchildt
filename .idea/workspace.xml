@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/AssertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/BRRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/BRReadLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/CopyFileWithResurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/Hypot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/NativeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/PrintWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/ShowFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/ShowFileWithResurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter13/TinyEdit.java" afterDir="false" />
+    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/ChainExcDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/FinallyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/HandleError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MethNestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MultiCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MultipleCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/NestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/SuperSubCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/ThrowDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter10/Exc2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +55,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyClass">
-    <configuration name="AssertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter13.AssertDemo" />
+  <component name="RunManager" selected="Application.ChainExcDemo">
+    <configuration name="ChainExcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter10.ChainExcDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter13.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyFileWithResurs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter13.CopyFileWithResurs" />
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter10.ExceptionDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter13.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hypot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter13.Hypot" />
+    <configuration name="FinallyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter10.FinallyDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter13.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter13.MyClass" />
+    <configuration name="MethNestTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter10.MethNestTry" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter13.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NativeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter13.NativeDemo" />
+    <configuration name="ThrowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter10.ThrowDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter13.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.Hypot" />
-        <item itemvalue="Application.AssertDemo" />
-        <item itemvalue="Application.NativeDemo" />
-        <item itemvalue="Application.CopyFileWithResurs" />
+        <item itemvalue="Application.ChainExcDemo" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.FinallyDemo" />
+        <item itemvalue="Application.ThrowDemo" />
+        <item itemvalue="Application.MethNestTry" />
       </list>
     </recent_temporary>
   </component>
@@ -140,27 +140,6 @@
       <option name="presentableId" value="Default" />
       <updated>1726306930005</updated>
     </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1726329826231</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1726329826231</updated>
-    </task>
-    <task id="LOCAL-00002" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1726329848705</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1726329848705</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
