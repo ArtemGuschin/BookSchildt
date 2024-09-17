@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/BlockLambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/BlockLambdaDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/EmptyArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/GenericFunctionalInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/HighTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaAsArgumentsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyArrayOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClassFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyStringOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter15/UseFunctionalInterFaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +126,36 @@
       <option name="presentableId" value="Default" />
       <updated>1726306930005</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1726564976896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564976896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <option name="closed" value="true" />
+      <created>1726564989748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564989748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1726565084316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726565084316</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
