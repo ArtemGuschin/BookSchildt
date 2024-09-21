@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add 20" />
+    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add 20">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/FileOutputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Artem/javacore/chapter20/FileOutputStreamDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,13 +46,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UseFunctionalInterFaceDemo">
-    <configuration name="ConstructorRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter15.ConstructorRefDemo" />
+  <component name="RunManager" selected="Application.FileOutputStreamDemo">
+    <configuration name="DataIODemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter20.DataIODemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter15.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorRefDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter15.ConstructorRefDemo2" />
+    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter20.DirList" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter15.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorRefDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter15.ConstructorRefDemo3" />
+    <configuration name="FileOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter20.FileOutputStreamDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter15.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceMethWithObjectRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter15.InstanceMethWithObjectRefDemo" />
+    <configuration name="FileReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter20.FileReaderDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter15.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFunctionalInterFaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter15.UseFunctionalInterFaceDemo" />
+    <configuration name="SequenceInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Artem.javacore.chapter20.SequenceInputStreamDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Artem.javacore.chapter15.*" />
+          <option name="PATTERN" value="Artem.javacore.chapter20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UseFunctionalInterFaceDemo" />
-        <item itemvalue="Application.ConstructorRefDemo3" />
-        <item itemvalue="Application.ConstructorRefDemo2" />
-        <item itemvalue="Application.ConstructorRefDemo" />
-        <item itemvalue="Application.InstanceMethWithObjectRefDemo" />
+        <item itemvalue="Application.FileOutputStreamDemo" />
+        <item itemvalue="Application.SequenceInputStreamDemo" />
+        <item itemvalue="Application.FileReaderDemo" />
+        <item itemvalue="Application.DirList" />
+        <item itemvalue="Application.DataIODemo" />
       </list>
     </recent_temporary>
   </component>
