@@ -7,7 +7,7 @@ public class FileInputStreamDemo {
     public static void main(String[] args) {
         int size;
 
-        try (FileInputStream f = new FileInputStream("C:\\Users\\art69\\IdeaProjects\\BookSchildt\\Test.txt")) {
+        try (FileInputStream f = new FileInputStream("C:\\Users\\art69\\IdeaProjects\\BookSchildt\\src\\main\\java\\com\\artem\\javacore\\chapter20\\FileInputStreamDemo.java")) {
             System.out.println("Общее колиство доступных байтов " + (size = f.available()));
 
             int n = size / 40;
@@ -24,11 +24,11 @@ public class FileInputStreamDemo {
                 System.err.println("Нельзя прочитать " + n + " байтов");
             }
             System.out.println(new String(b, 0, n));
-            System.out.println("Все ещн доступно " + (size = f.available()));
+            System.out.println("Все еще доступно " + (size = f.available()));
 
-            System.out.println("Пропустить пловину оставшихся байтов методом skip().");
+            System.out.println("Пропустить половину оставшихся байтов методом skip().");
             f.skip(size / 2);
-            System.out.println("Все ещн доступно " + f.available());
+            System.out.println("Все еще доступно " + f.available());
             System.out.println("Чтение " + n / 2 + "байтов размещенных в конце массива ");
             if (f.read(b, n / 2, n / 2) != n / 2) {
                 System.err.println("Нельзя прочитать " + n / 2 +" байтов");

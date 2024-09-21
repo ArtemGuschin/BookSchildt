@@ -5,68 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add 21">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookSchildt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BookSchildt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/ChainExcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/ChainExcDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/Exc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/FinallyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/FinallyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/HandleError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/HandleError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MethNestTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/MethNestTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MultiCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/MultiCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MultipleCatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/MultipleCatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/NestTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/NestTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/SuperSubCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/SuperSubCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter10/ThrowDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter10/ThrowDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/AssertDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/AssertDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/BRRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/BRRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/BRReadLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/BRReadLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/CopyFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/CopyFileWithResurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/CopyFileWithResurs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/Hypot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/Hypot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/NativeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/NativeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/PrintWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/PrintWriterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/ShowFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/ShowFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/ShowFileWithResurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/ShowFileWithResurs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter13/TinyEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter13/TinyEdit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/BlockLambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/BlockLambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/BlockLambdaDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/BlockLambdaDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/EmptyArrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/EmptyArrayException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/GenericFunctionalInterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/GenericFunctionalInterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/HighTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/HighTemp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaAsArgumentsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/LambdaAsArgumentsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/LambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/LambdaDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/LambdaDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/LambdaDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyArrayOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/MyArrayOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/MyClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/MyClass3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyClassFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/MyClassFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/MyStringOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/MyStringOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter15/UseFunctionalInterFaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter15/UseFunctionalInterFaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/BufferedInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/ByteArrayInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/ByteArrayOutPutStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayOutPutStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/CharArrayReaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/CharArrayReaderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/CharArrayWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/CharArrayWriterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/ConsoleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ConsoleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/DataIODemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/DataIODemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/DirList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/DirList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/FileOutputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileOutputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/FileReaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileReaderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/InputStreamEnumerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/InputStreamEnumerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/OnlyExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/OnlyExt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/PushbackInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/PushbackInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter20/SerializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/SerializationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Artem/javacore/chapter21/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileInputStreamDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,9 +51,9 @@
       <recent name="C:\Users\art69\IdeaProjects\BookSchildt\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileOutputStreamDemo">
-    <configuration name="DataIODemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.DataIODemo" />
+  <component name="RunManager" selected="Application.FileInputStreamDemo">
+    <configuration name="BufferedInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.BufferedInputStreamDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.DirList" />
+    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.FileInputStreamDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
@@ -178,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileInputStreamDemo" />
+        <item itemvalue="Application.BufferedInputStreamDemo" />
         <item itemvalue="Application.FileOutputStreamDemo" />
         <item itemvalue="Application.SequenceInputStreamDemo" />
         <item itemvalue="Application.FileReaderDemo" />
-        <item itemvalue="Application.DirList" />
-        <item itemvalue="Application.DataIODemo" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726905067852</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add 21">
+      <option name="closed" value="true" />
+      <created>1726906108956</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726906108956</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
