@@ -5,7 +5,7 @@ import java.io.ByteArrayInputStream;
 public class ByteArrayInputStreamDemo {
     public static void main(String[] args) {
         String tmp = "absdefghijklmnopqrstufvxyz";
-        byte b[] = tmp.getBytes();
+        byte[] b = tmp.getBytes();
 
         ByteArrayInputStream input1 = new ByteArrayInputStream(b);
         ByteArrayInputStream input2 = new ByteArrayInputStream(b, 0, 3);
@@ -15,7 +15,7 @@ public class ByteArrayInputStreamDemo {
 class ByteArrayInputStreamReset {
     public static void main(String[] args) {
         String tmp = "abc";
-        byte b[] = tmp.getBytes();
+        byte[] b = tmp.getBytes();
         ByteArrayInputStream in = new ByteArrayInputStream(b);
 
         for (int i = 0; i < 2; i++) {

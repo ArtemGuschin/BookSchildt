@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add 21">
+    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ExplicationChannelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ExplicationChannelRead2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ExplicitChannelWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/MappedChannelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/NIOCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/NIOStreamWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ShowFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/FileInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayOutPutStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayOutPutStreamDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -51,13 +63,13 @@
       <recent name="C:\Users\art69\IdeaProjects\BookSchildt\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileInputStreamDemo">
-    <configuration name="BufferedInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.BufferedInputStreamDemo" />
+  <component name="RunManager" selected="Application.DirList">
+    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.DirList" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter20.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.FileInputStreamDemo" />
+    <configuration name="ExplicitChannelWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.ExplicitChannelWrite" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter20.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.FileOutputStreamDemo" />
+    <configuration name="NIOCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.NIOCopy" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter20.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.FileReaderDemo" />
+    <configuration name="NIOStreamWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.NIOStreamWrite" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter20.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenceInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter20.SequenceInputStreamDemo" />
+    <configuration name="ShowFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.ShowFile" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter20.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileInputStreamDemo" />
-        <item itemvalue="Application.BufferedInputStreamDemo" />
-        <item itemvalue="Application.FileOutputStreamDemo" />
-        <item itemvalue="Application.SequenceInputStreamDemo" />
-        <item itemvalue="Application.FileReaderDemo" />
+        <item itemvalue="Application.DirList" />
+        <item itemvalue="Application.NIOStreamWrite" />
+        <item itemvalue="Application.ShowFile" />
+        <item itemvalue="Application.NIOCopy" />
+        <item itemvalue="Application.ExplicitChannelWrite" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726906108956</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add changes">
+      <option name="closed" value="true" />
+      <created>1726908229032</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726908229032</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,11 +291,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="first commit" />
     <MESSAGE value="add 20" />
     <MESSAGE value="add 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 21" />
+    <MESSAGE value="add changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
   </component>
 </project>

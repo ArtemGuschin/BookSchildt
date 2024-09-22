@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class BufferedInputStreamDemo {
     public static void main(String[] args) {
-        String s = "This sing is copy &copy; ,&copy - this not.\n";
+        String s = "This sing is copy &copy; , &copy - this not.\n";
         byte buf[] = s.getBytes();
         ByteArrayInputStream in = new ByteArrayInputStream(buf);
         int c;

@@ -18,9 +18,8 @@ public class ByteArrayOutPutStreamDemo {
         System.out.println("Буфер в виде символьной строки ");
         System.out.println(f.toString());
         System.out.println("В массив ");
-        byte b[] = f.toByteArray();
-        for (int i = 0; i < b.length; i++)
-            System.out.print((char) b[i]);
+        byte[] b = f.toByteArray();
+        for (byte value : b) System.out.print((char) value);
         System.out.println("\nВ Поток вывода типа OutputStream() ");
 
         try (FileOutputStream f2 = new FileOutputStream("test1.txt")) {
