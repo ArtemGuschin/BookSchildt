@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/DirList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ExplicationChannelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ExplicationChannelRead2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ExplicitChannelWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/MappedChannelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/NIOCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/NIOStreamWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter21/ShowFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add chapter 21">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter22/HttpURLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter22/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter22/UCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter22/URLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter22/Whois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/BufferedInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayInputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayOutPutStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/ByteArrayOutPutStreamDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +56,13 @@
       <recent name="C:\Users\art69\IdeaProjects\BookSchildt\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DirList">
-    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.DirList" />
+  <component name="RunManager" selected="Application.HttpURLDemo">
+    <configuration name="HttpURLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter22.HttpURLDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitChannelWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.ExplicitChannelWrite" />
+    <configuration name="InetAddressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter22.InetAddressTest" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NIOCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.NIOCopy" />
+    <configuration name="UCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter22.UCDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NIOStreamWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.NIOStreamWrite" />
+    <configuration name="URLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter22.URLDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter21.ShowFile" />
+    <configuration name="Whois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter22.Whois" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter21.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DirList" />
-        <item itemvalue="Application.NIOStreamWrite" />
-        <item itemvalue="Application.ShowFile" />
-        <item itemvalue="Application.NIOCopy" />
-        <item itemvalue="Application.ExplicitChannelWrite" />
+        <item itemvalue="Application.HttpURLDemo" />
+        <item itemvalue="Application.UCDemo" />
+        <item itemvalue="Application.URLDemo" />
+        <item itemvalue="Application.Whois" />
+        <item itemvalue="Application.InetAddressTest" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726908229032</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add chapter 21">
+      <option name="closed" value="true" />
+      <created>1727021075555</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727021075555</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +299,7 @@
     <MESSAGE value="add 20" />
     <MESSAGE value="add 21" />
     <MESSAGE value="add changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
+    <MESSAGE value="add chapter 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chapter 21" />
   </component>
 </project>
