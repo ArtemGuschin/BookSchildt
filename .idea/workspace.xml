@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3911330-14e0-4af9-8fbd-be7f37ae1435" name="Changes" comment="add chapter 29">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter29/NamePhoneEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter29/StreamDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter29/StreamDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter29/StreamDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter11/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter11/CurrentThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter11/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter11/NewThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter11/Q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter11/Synch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial" beforeDir="false" afterPath="$PROJECT_DIR$/serial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/SerializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artem/javacore/chapter20/SerializationDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +59,13 @@
       <recent name="C:\Users\art69\IdeaProjects\BookSchildt\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamDemo10">
-    <configuration name="StreamDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter29.StreamDemo10" />
+  <component name="RunManager" selected="Application.SuspendResume">
+    <configuration name="CurrentThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter11.CurrentThreadDemo" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter29.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter29.StreamDemo4" />
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter11.DeadLock" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter29.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter29.StreamDemo5" />
+    <configuration name="PC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter11.PC" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter29.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter29.StreamDemo6" />
+    <configuration name="SuspendResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter11.SuspendResume" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter29.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter29.StreamDemo8" />
+    <configuration name="Synch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.javacore.chapter11.Synch" />
       <module name="BookSchildt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.artem.javacore.chapter29.*" />
+          <option name="PATTERN" value="com.artem.javacore.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamDemo10" />
-        <item itemvalue="Application.StreamDemo8" />
-        <item itemvalue="Application.StreamDemo6" />
-        <item itemvalue="Application.StreamDemo5" />
-        <item itemvalue="Application.StreamDemo4" />
+        <item itemvalue="Application.SuspendResume" />
+        <item itemvalue="Application.Synch" />
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.PC" />
+        <item itemvalue="Application.CurrentThreadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727105797803</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add chapter 29">
+      <option name="closed" value="true" />
+      <created>1727185363925</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727185363925</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

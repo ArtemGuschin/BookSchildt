@@ -5,8 +5,8 @@ import java.io.*;
 public class SerializationDemo {
     public static void main(String[] args) {
         try (ObjectOutputStream objectOStrm = new ObjectOutputStream(new FileOutputStream("serial"))) {
-            MyClass object1 = new MyClass("Hello", -7, 2.7e10);
-            System.out.println("object1" + object1);
+            MyClass object1 = new MyClass("Hello", -8, 2.7e10);
+              System.out.println("object1" + object1);
             objectOStrm.writeObject(object1);
 
 
